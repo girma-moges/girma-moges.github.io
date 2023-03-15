@@ -1,4 +1,4 @@
-- [x]  publish [README.md](https://girmamog.es.github.io)
-- [x]  redirect to [custom domain](https://girmamog.es)
-- [ ]  ?
-- [ ]  profit
+- [x] &nbsp;publish [README.md](https://girmamog.es.github.io)
+- [x] &nbsp;redirect to [custom domain](https://girmamog.es)
+- [ ] &nbsp;?
+- [ ] &nbsp;profit
